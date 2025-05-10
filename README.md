@@ -18,7 +18,7 @@ A full-featured URL shortener web application built using the MERN stack (MongoD
 
 | Layer       | Technology                  |
 |-------------|------------------------------|
-| Frontend    | React,js   |
+| Frontend    | React.js   |
 | Backend     | Node.js, Express.js          |
 | Database    | MongoDB (Mongoose ODM)       |
 | Auth        | JWT, bcrypt.js               |
