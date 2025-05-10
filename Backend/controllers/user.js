@@ -1,7 +1,7 @@
 const user = require('../models/user')
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
-const secret = "@ancdf#";
+const secret = "";
 
 
 async function handleSignUp(req, res) {
