@@ -3,7 +3,7 @@ const QRCode = require('qrcode')
 const url = require("../models/url");
 const user = require('./user');
 const jwt = require('jsonwebtoken');
-const secret = "@ancdf#";
+const secret = "";
 
 async function handleGenerateShortUrl(req, res) {
     const body = req.body;
